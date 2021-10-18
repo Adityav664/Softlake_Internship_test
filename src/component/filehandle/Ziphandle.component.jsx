@@ -3,7 +3,6 @@ import './Ziphandle.style.css';
 import { StyledDropZone } from 'react-drop-zone';
 import zipimg from './../../assets/zipimg.png';
 
-
 function Ziphandle() {
     const [data, setData] = useState(null);
     return (
@@ -34,7 +33,6 @@ function Ziphandle() {
                     </div>
                 }
             </DropZone> */}
-            {(data) ? console.log(data) : null}
         </div>
     );
 }
