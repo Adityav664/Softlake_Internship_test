@@ -1,0 +1,21 @@
+.ziphandle{
+    border-style: dotted;
+    margin: 10%;
+    height: 20em;
+    align-items: center;
+    text-align: center;
+    align-items: center;
+}
+
+.drop{
+    height: 100%;
+    margin: 0;
+}
+.text{
+    margin: 20%;
+}
+
+.zipimg{
+    height: 50px;
+    padding-top: 3%;
+}

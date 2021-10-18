@@ -1,0 +1,11 @@
+.footer{
+    background-color: rgb(199, 179, 179);
+    height: 10em;
+    border-style: solid;
+    margin-top: 40px;
+    border-width: 1px;
+    text-align: center;
+}
+h2{
+    padding-top: 2em;
+}

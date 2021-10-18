@@ -1,0 +1,19 @@
+.bodypage{
+    
+}
+.tar{
+    display: flex;
+}
+.tar-img{
+    height: 100px;
+    padding-left: 10%;
+    padding-top: 5%;
+    padding-right: 10%;
+}
+.tar-p{
+    margin-right: 10%;
+}
+
+.padding-div{
+    padding: 5%;
+}
